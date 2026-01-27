@@ -15,7 +15,7 @@
 
 #define SAMPLES_AVG       16
 
-#define BASELINE_CONST    1516   
+#define BASELINE_CONST    1530
 
 #define ADC_ATTEN         ADC_ATTEN_DB_12
 #define ADC_WIDTH         ADC_BITWIDTH_12

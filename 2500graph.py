@@ -31,7 +31,7 @@ def main():
     plt.title("Level vs Time")
 
     plt.ylim(1800, 2400)
-    plt.yticks(np.arange(1800, 2401, 25))  
+    plt.yticks(np.arange(1600, 2401, 25))  
 
     plt.grid(True, which="both", alpha=0.3)
     plt.legend()

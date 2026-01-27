@@ -1,2 +1,19 @@
+=== mean intensity ===
 RMS(level) = 2298.148
 Rounded     = 2298
+
+=== Calorimetry power estimate ===
+Points used: 2401  time span: 0.000 .. 600.000 s
+Slope dT/dt: 0.008526 °C/s  (0.5116 °C/min)
+Mass: 1.3500 kg   c: 4186.0 J/(kg*K)
+Effective power P = m*c*dT/dt: 48.183 W
+Fit R^2: 0.9197
+
+alpha = 36.6 W/m² per unit
+S_piezo = 5.726×10−4 m^2
+
+=== fist experiment with capillar ===
+RMS(level) = 2302.912
+Rounded     = 2303
+estimated intensity = 84290 W/m²
+
