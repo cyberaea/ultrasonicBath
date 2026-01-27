@@ -1,0 +1,10 @@
+Detected ON intervals (seconds from start):
+1: ON at 1.470s  OFF at 9.460s   duration=7.99s
+2: ON at 17.490s  OFF at 25.360s   duration=7.87s
+3: ON at 41.330s  OFF at 49.760s   duration=8.43s
+4: ON at 57.130s  OFF at 69.550s   duration=12.42s
+5: ON at 89.180s  OFF at 98.270s   duration=9.09s
+6: ON at 108.990s  OFF at 117.400s   duration=8.41s
+
+Mean level while ON:
+mean=2171.77  std=353.70  samples=5427  approx_on_time=54.3s
