@@ -13,7 +13,7 @@ alpha = 36.6 W/m² per unit
 S_piezo = 5.726×10−4 m^2
 
 === fist experiment with capillar ===
-RMS(level) = 2302.912
-Rounded     = 2303
-estimated intensity = 84290 W/m²
+level = 2260
+estimated intensity = 82700 W/m²
+watel level = 2.5 cm
 
